@@ -1,0 +1,57 @@
+html {
+    min-height: 100%;
+    min-width: 100%;
+    background-color: #EDD2A4;
+  }
+
+  .seal{
+    height: 150px;
+    width: 150px;
+  }
+  .flag{
+    height: 100px;
+    width: 150px;
+    float: left;
+    margin: 75px;
+    display: inline;
+  }
+  
+  .map{
+    height: 150px;
+    width: 150px;
+    margin: 50px;
+    float: right;
+    
+  }
+  
+  p.about{
+    text-align: left;
+  }
+  
+  a {
+    font-weight: bold;
+    color: #FFFFFF;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+  
+  a.router-link-exact-active {
+    color: #BF0A30;
+  }
+  
+  h1.about {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+
+  li {
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 5px;
+    font-size: 14pt;
+  }
+
+  .sub-div{
+    vertical-align: bottom;
+    float: right;
+  }
