@@ -37,5 +37,5 @@ export default {
 </script>
 
 <style scoped>
-@import "../style.css";
+@import "../janky.css";
 </style>
